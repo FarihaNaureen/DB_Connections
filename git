@@ -1,0 +1,4 @@
+DB_Connection/build/
+DB_Connection/.settings/
+*.class
+DB_Connection/bin/
